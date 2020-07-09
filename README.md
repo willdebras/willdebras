@@ -9,3 +9,9 @@ My name is Will Bonnell and I work as a research assistant at NORC at the Univer
 - 💬 Ask me about some of [my research](https://willdebras.github.io/cv/) on spatial influences on voting, how the hell the {openxlsx} package works, or why I think moral foundations theory is garbage.
 - 📫 How to reach me: [twitter](twitter.com/_willdebras)!
 - 😄 Pronouns: he/him
+
+Some past projects:
+
+- 🚆{ctar} - an R package to interact with the Chicago Transit Authority API for live data on train locations
+- 📜{googlecivic} - an R package to interact with the Google Civic Information API to retrieve voter information data by address
+- 📈 stayta - an app to parse simple stata commands into R and return R output
