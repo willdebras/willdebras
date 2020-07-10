@@ -14,4 +14,4 @@ Some past projects:
 
 - 🚆 {ctar} - an R package to interact with the Chicago Transit Authority API for live data on train locations
 - 📜 {googlecivic} - an R package to interact with the Google Civic Information API to retrieve voter information data by address
-- 📈 stayta - an app to parse simple stata commands into R and return R output
+- 📈 stayta - a 'proof-of-concept' app to parse simple stata commands into R and return R output
