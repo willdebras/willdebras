@@ -7,7 +7,7 @@ My name is Will Bonnell and I work at NORC at the University of Chicago doing po
 - 🌱 I’m currently learning Julia, expanding my knowledge of Bayesian methods and causal inference, and applying to PhD programs in international relations.
 - 👯 I’m looking to collaborate on interactive data visualisations and data journalism. I'm available for commission or collaboration. Some of my past vizes are available on [my website](https://willdebras.github.io/viz/).
 - 💬 Ask me about some of [my research](https://willdebras.github.io/cv/) on spatial influences on voting, how the hell the {openxlsx} package works, or why I think moral foundations theory is garbage.
-- 📫 How to reach me: [twitter](twitter.com/_willdebras)!
+- 📫 How to reach me: [twitter](https://twitter.com/_willdebras)!
 - 😄 Pronouns: he/him
 
 Some past projects:
