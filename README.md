@@ -13,6 +13,7 @@ My name is Will Bonnell and I work at NORC at the University of Chicago doing po
 Some past projects:
 
 - 🚆 {ctar} - an R package to interact with the Chicago Transit Authority API for live data on train locations
+- 🎹 {shinykeyboard} - an R package to include an on-screen keyboard in an R Shiny application
 - 📜 {googlecivic} - an R package to interact with the Google Civic Information API to retrieve voter information data by address
 - 📈 stayta - a 'proof-of-concept' app to parse simple stata commands into R and return R output
 - 🚗 Chicago Vision Zero dashboard - a collaborative hackathon-produced dashboard to display traffic crashes and fatalities data in Chicago
