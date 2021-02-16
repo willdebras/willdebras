@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Will Bonnell and I work at NORC at the University of Chicago doing political survey research. I also help organize a group/set of events called the [R Community Collaboratives](https://chircollab.github.io/). I have three years of experience in R and SQL and about a year or two experience programming production dashboards in R Shiny, with some skills in CSS/JS. 
+My name is Will Bonnell and I work at NORC at the University of Chicago doing political survey research. I also help organize a group/set of events called the [R Community Collaboratives](https://chircollab.github.io/). I have three years of experience in R and SQL and about two years experience programming production dashboards in R Shiny, with skills in CSS and vanilla JS. 
 
 
 - 🔭 I’m currently working on a [piece of a scrollytelling](https://willdebras.shinyapps.io/migration_2018/) built in R shiny displaying migration data.
@@ -15,5 +15,6 @@ Some past projects:
 - 🚆 {ctar} - an R package to interact with the Chicago Transit Authority API for live data on train locations
 - 🎹 {shinykeyboard} - an R package to include an on-screen keyboard in an R Shiny application
 - 📜 {googlecivic} - an R package to interact with the Google Civic Information API to retrieve voter information data by address
+- ⚖️ Civic Info Lookup application - an F7 mobile application built with R Shiny, leaflet.js/MapQuest.js, {googlecivic}, and tui-calendar to display civic information from your phone screen.  
 - 📈 stayta - a 'proof-of-concept' app to parse simple stata commands into R and return R output
 - 🚗 Chicago Vision Zero dashboard - a collaborative hackathon-produced dashboard to display traffic crashes and fatalities data in Chicago
