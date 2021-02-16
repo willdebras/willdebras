@@ -14,7 +14,7 @@ Some past projects:
 
 - 🚆 {ctar} - an R package to interact with the Chicago Transit Authority API for live data on train locations
 - 🎹 {shinykeyboard} - an R package to include an on-screen keyboard in an R Shiny application
+- ⚖️ [Civic Info Lookup application](https://github.com/willdebras/civiclookup) - an F7 mobile application built with R Shiny, leaflet.js/MapQuest.js, {googlecivic}, and tui-calendar to display civic information from your phone screen.
 - 📜 {googlecivic} - an R package to interact with the Google Civic Information API to retrieve voter information data by address
-- ⚖️ Civic Info Lookup application - an F7 mobile application built with R Shiny, leaflet.js/MapQuest.js, {googlecivic}, and tui-calendar to display civic information from your phone screen.  
 - 📈 stayta - a 'proof-of-concept' app to parse simple stata commands into R and return R output
 - 🚗 Chicago Vision Zero dashboard - a collaborative hackathon-produced dashboard to display traffic crashes and fatalities data in Chicago
