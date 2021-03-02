@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Will Bonnell and I work at NORC at the University of Chicago doing political survey research. I also help organize a group/set of events called the [R Community Collaboratives](https://chircollab.github.io/). I have three years of experience in R and SQL and about two years experience programming production dashboards in R Shiny, with skills in CSS and vanilla JS. 
+My name is Will Bonnell and I work at in the Department of Statistics and Data Science NORC at the University of Chicago as a data analyst, mainly building R Shiny applications and D3 visualizations. I also help organize a group/set of events called the [R Community Collaboratives](https://chircollab.github.io/). I have three years of experience in R and SQL and about two years experience programming production dashboards in R Shiny, with skills in D3, CSS and vanilla JS. 
 
 
 - 🔭 I’m currently working on a [piece of a scrollytelling](https://willdebras.shinyapps.io/migration_2018/) built in R shiny displaying migration data.
