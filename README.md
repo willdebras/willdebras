@@ -12,6 +12,7 @@ My name is Will Bonnell and I work at in the Department of Statistics and Data S
 
 Some past projects:
 
+- 🌩️ [r-svelte-demo](https://github.com/willdebras/r-svelte-demo) - A demo of how to use R scripts in an Express.js server for an appllication created in Svelte.
 - 🚆 {ctar} - an R package to interact with the Chicago Transit Authority API for live data on train locations
 - 🎹 {shinykeyboard} - an R package to include an on-screen keyboard in an R Shiny application
 - ⚖️ [Civic Info Lookup application](https://github.com/willdebras/civiclookup) - an F7 mobile application built with R Shiny, leaflet.js/MapQuest.js, {googlecivic}, and tui-calendar to display civic information from your phone screen.
