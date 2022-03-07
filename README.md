@@ -2,10 +2,6 @@
 
 My name is Will Bonnell and I work at Oliver Wyman, building production R Shiny applications and interactive data visualizations. Previously, I worked for NORC at the University of Chicago as a data analyst and visualization developer. I have about four years of experience in R and about three years of experience programming production dashboards in R Shiny, with skills in D3.js, vanilla JS, CSS, semantic HTML, and JS frameworks like Svelte and React. 
 
-
-![chicago_edge](https://user-images.githubusercontent.com/37971596/157123785-0edaac73-e0c7-4146-97b9-8c0350b9759c.png)
-
-
 - 🔭 I’m currently building tools in React and Svelte, creating scrollytelling products in GSAP, and doing UI/UX design in Figma.
 - 🌱 I’m also continuing to improve my capabilities in statistical programming in languages like R and Julia.
 - 👯 I’m looking to collaborate on interactive data visualisations and data journalism. I'm available for commission or collaboration. Some of my past vizes are available on [my website](https://willdebras.github.io/viz/).
